@@ -17,8 +17,9 @@ head{
 body{
     font-family: 'Noto Serif', serif;
     line-height: 1.8;
-    margin: 0;
+    margin: 0 auto 0 auto;
     background-color: #eeebda;
+    width: 1000px;
 }
 h1, h2, h3{
     font-family: 'Dancing Script', sans-serif;
