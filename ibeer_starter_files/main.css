@@ -14,12 +14,13 @@ light tan: #eeebda
 head{
   font-family: Serif;
 }
-body{
+body {
     font-family: 'Noto Serif', serif;
     line-height: 1.8;
     margin: 0 auto 0 auto;
-    background-color: #eeebda;
+    background-color: #EDEBDB;
     width: 1000px;
+
 }
 h1, h2, h3{
     font-family: 'Dancing Script', sans-serif;
@@ -54,9 +55,10 @@ img{
 }
 #site-header div{
     text-align: center;
-    padding: 60px 0 120px 0;
+    padding: 60px 160px;
     font-size: 4em;
     background-image: url("img/header-img.jpg");
+    width: 650px;
 
 
     /*
